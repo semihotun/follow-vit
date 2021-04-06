@@ -1,3 +1,3 @@
 # follow-vit
 
-https://follow-vit.com/
+https://test.follow-vit.com/
